@@ -21,8 +21,8 @@ The Wharton Entrepreneurship Specialization is a five-course, beginner-friendly 
 
 ## 🏆 Who Should Enroll?
 
-- Aspiring entrepreneurs and founders
-- Innovators and intrapreneurs
+- Aspiring Techpreneurs and Founders
+- Innovators and Intrapreneurs
 - Business professionals and students
 - Anyone interested in the startup process
 
