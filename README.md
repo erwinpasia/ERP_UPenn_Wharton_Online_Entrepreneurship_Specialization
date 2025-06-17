@@ -8,7 +8,7 @@ Welcome! This repository provides a comprehensive overview of the **Entrepreneur
 
 ## 📚 Overview
 
-The Wharton Entrepreneurship Specialization is a five-course, beginner-friendly program that guides learners through the process of launching and growing a startup. Taught by renowned Wharton faculty, the specialization covers ideation, validation, launching, scaling, and financing new ventures.
+The Wharton Entrepreneurship Specialization is a five-course program, that guides learners through the process of launching and growing a startup. Taught by renowned Wharton faculty, the specialization covers ideation, validation, launching, scaling, and financing new ventures.
 
 - **Provider:** University of Pennsylvania (Wharton School)
 - **Platform:** [Coursera](https://www.coursera.org/specializations/wharton-entrepreneurship)
@@ -91,8 +91,7 @@ Courses are taught by top Wharton faculty, including:
 ## 🔗 Useful Links
 
 - [Official Coursera Specialization Page](https://www.coursera.org/specializations/wharton-entrepreneurship)
-- [Wharton School](https://online.wharton.upenn.edu/)
-- [Coursera Financial Aid](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US)
+- [Wharton School](https://platform.onlinelearning.upenn.edu/offering/entrepreneurship-specialization-a0Q2E00000JmMP5UAN)
 
 ---
 
