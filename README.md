@@ -70,13 +70,12 @@ The specialization consists of **five sequential courses**:
 
 Courses are taught by top Wharton faculty, including:
 
-- Lori Rosenkopf
-- Karl Ulrich
-- Kartik Hosanagar
-- David Hsu
-- David Bell
-- Laura Huang
-- Ethan Mollick
+- [Lori Rosenkopf](https://mgmt.wharton.upenn.edu/profile/rosenkol)
+- [David Hsu](https://mgmt.wharton.upenn.edu/profile/dhsu)
+- [Karl Ulrich](https://oid.wharton.upenn.edu/profile/ulrich)
+- [Ethan Mollick](https://mgmt.wharton.upenn.edu/profile/emollick)
+- [Kartik Hosanagar](https://oid.wharton.upenn.edu/profile/kartikh)
+- [Jagmohan Raju](https://marketing.wharton.upenn.edu/profile/rajuj)
 
 ---
 
